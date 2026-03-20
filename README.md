@@ -20,9 +20,6 @@ Yahoo Finance provides a comprehensive suite of financial data, including real-t
 ```bash
 # Install dependencies
 pip install -e .
-
-# Or install with dev dependencies
-pip install -e ".[dev]"
 ```
 
 ## Requirements
